@@ -1,0 +1,14 @@
+{
+  "name": "latihan-uts",
+  "version": "1.0.0",
+  "description": "latihan pra uts",
+  "main": "index.js",
+  "scripts": {
+    "tail": "npx tailwindcss -i ./src/css/input.css -o ./src/css/output.css --watch"
+  },
+  "author": "ehancup",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
